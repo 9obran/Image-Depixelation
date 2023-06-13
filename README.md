@@ -7,7 +7,6 @@ A repository for enhancing pixelated images using advanced algorithms, pre-train
 - [Installation](#installation)
 - [Usage](#usage)
   - [Command-line Interface](#command-line-interface)
-  - [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
 
